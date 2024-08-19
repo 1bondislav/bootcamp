@@ -1,6 +1,8 @@
 
 # Flask Snowflake Application
 
+## Set your info in app.py, where ????? is written
+
 ## Setup Instructions
 
 1. **Install Docker**: Ensure Docker is installed on your machine. If not, the `setup.sh` script will install it for you.
