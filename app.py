@@ -5,10 +5,10 @@ app = Flask(__name__)
 
 def get_snowflake_connection():
     return snowflake.connector.connect(
-        user='Bondislav',
-        password='Ra220ka85v',
-        account='hgeqwts-sn61834',
-        warehouse='COMPUTE_WH',
+        user='???????',
+        password='??????',
+        account='???????',
+        warehouse='???????',
         database='SYSTEM_SERVICES',
         schema='ELASTICSEARCH'
     )
